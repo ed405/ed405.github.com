@@ -1,6 +1,6 @@
 # main text of home
-name: Katia Damer
-bio: CEO and cofounder of Prolific.ac 
+name: Ekaterina (Katia) Damer
+bio: CEO and cofounder of Prolific. Passionate about entrepreneurship, motivation science, diversity & inclusion, and meta science. I'd love to figure out how to make the world a more open-minded, curious, collaborative (and less divided, polarized) place.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -12,8 +12,8 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 url: http://katiadamer.com
@@ -37,7 +37,7 @@ disqus:
 #facebook: myfacebook
 twitter: ekadamer
 # google: mygoogle
-instagram: ekadamer
+# instagram: ekadamer
 # pinterest: mypinterest
 linkedin: ekaterina-damer-7158263a
 # youtube: myyoutube
@@ -51,7 +51,7 @@ linkedin: ekaterina-damer-7158263a
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: email@katiadamer.com
+email: katia@prolific.ac
 
 authors:
     ekadamer:
@@ -64,7 +64,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5

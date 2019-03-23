@@ -2,45 +2,25 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+<!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+## About
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Hi, I'm Katia. I'm a psychological scientist and founder living in Oxford, UK. 
 
-<h2>Skills</h2>
+I run a startup called [Prolific](https://prolific.ac). It's a software platform that connects researchers with trusted, global research participants at the click of a button. On top of our participant pool, we build infrastructure for research: Things like prescreening tools (so you can target niche segments of populations or collect nationally representative samples), software to catch cheaters and fraudsters (to ensure high data quality), and a range of research tools (such as longitudinal functionality allowing researchers to follow up with participants over weeks or months).
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+With Prolific, we hope to empower anybody – individuals, businesses, and governments – to make more evidence-based decisions. Hopefully, we'll also help advance human knowledge along the way.
 
-<h2>Projects</h2>
+As part of my PhD at the University of Sheffield, UK, I've done research on diversity, curiosity, and creativity. I discovered that exposure to diversity can sometimes spark curiosity, which suggests that diversity can induce positive motivations and/or emotions. Across more than a dozen experiments, I also found that – unlike the scientific literature indicated – exposure to diversity isn't necessarily linked to cognitive flexibility or creativity. Why? I wrote a theory paper arguing that responses to diversity are often multi-faceted (and yet systematic!): People can feel indifferent about it, or feel threatened by it (and become cognitively rigid and defensive), or they can feel challenged by it (opening up and becoming more cognitively flexible). 
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+This means that the study of diversity and it psychological and social implications is intrinsically hard. We need to develop better theory, paradigms, and measures if we are to tease apart and understand these intricate effects.
+
+To enrich the picture a little more, I found that individual differences can matter quite a bit in response to diversity. In this [research](https://journals.sagepub.com/doi/abs/10.1177/1368430218811250) I discovered that people who were relatively less intellectually curious responded more positively to diversity than those who were relatively intellectually curious, presumably because the former had more capacity to be surprised and intrigued.
+
+Besides Prolific and my research, I deeply care about improving science practices. Check out [this beautiful paper](https://www.nature.com/articles/s41562-016-0021) by Munafò and colleagues from 2017 called "A manifesto for reproducible science" to learn about scientific reform. [This paper](https://journals.sagepub.com/doi/full/10.1177/0956797611417632) by Simmons, Nelson, and Simonsohn (2011) had a profound impact on me in the early days of my PhD. Initially, it caused a lot of disillusionment and doubt about science: If most scientists' research practices are so questionable, can we trust anything that is published? (In fact, this was [not the first time](https://journals.plos.org/plosmedicine/article%3Fid%3D10.1371/journal.pmed.0020124) this argument was advanced.) 
+
+But, all that said, I think it's fair to say that my field, psychological science, has made significant leaps forward in the past years in terms scientific transparency and rigour. 
+
+
+
