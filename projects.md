@@ -17,8 +17,8 @@ title: Publications
 
 ## Publications
 
-Damer, E., Webb, T. L., & Crisp, R. J. (2018). Diversity may help the uninterested: Evidence that exposure to counter-stereotypes promotes cognitive reflection for people low (but not high) in need for cognition. Group Processes & Intergroup Relations. [[pdf here](/assets/pdfs/damer2018.pdf)]
+Damer, E., Webb, T. L., & Crisp, R. J. (2018). Diversity may help the uninterested: Evidence that exposure to counter-stereotypes promotes cognitive reflection for people low (but not high) in need for cognition. Group Processes & Intergroup Relations. [pdf [here](/assets/pdfs/damer2018.pdf)]
 
 Damer, E., Webb, T. L., & Crisp, R. J. (submitted for publication). Challenge, threat, and epistemic processes in diversity experiences: The Expectancy Resolution Model. 
 
-Damer, E., Forscher, P. S., Maher, P. J., Webb, T. L., & Crisp, R. J. (in prep). Can Longitudinal Exposure to Counter-stereotypes Enhance Cognitive Flexibility and Reduce Prejudice? [Preregistration [here](https://osf.io/jcz8q/)]
+Damer, E., Forscher, P. S., Maher, P. J., Webb, T. L., & Crisp, R. J. (in prep). Can longitudinal exposure to counter-stereotypes enhance cognitive flexibility and reduce prejudice? [preregistration [here](https://osf.io/jcz8q/)]

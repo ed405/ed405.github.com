@@ -34,7 +34,7 @@ Over the years, I've written some blog posts about research and data collection,
 
 #### How many participants to recruit?
 
-In [one of my earliest posts](https://blog.prolific.ac/how-many-participants-shall-i-recruit-can-i-oversample-my-study/) in 2015 I asked: How many participants should a researcher recruit for any given study, and is it possible to "oversample" a study? I received some very helpful responses from science experts Joe Simmons, Brian Nosek, Eli Finkel, and Daniël Lakens via Twitter. Conclusion: It's not possible to "oversample" a study because more data makes your estimate more precise. But, because you have resource constraints, you will have to make a call as to what sample size is meaningful for your study (given a couple of parameters, like the magnitude of the effect that you expect).
+In [one of my earliest posts](https://blog.prolific.ac/how-many-participants-shall-i-recruit-can-i-oversample-my-study/) in 2015 I asked: How many participants should a researcher recruit for any given study, and is it possible to "oversample" a study? I received very helpful responses from science experts Joe Simmons, Brian Nosek, Eli Finkel, and Daniël Lakens via Twitter. Conclusion: It's not possible to "oversample" a study because more data makes your estimate more precise. But, because you have resource constraints, you will have to make a call as to what sample size is meaningful for your study (given a couple of parameters, like the magnitude of the effect that you expect).
 
 ####  Do not fear zombie science
 
